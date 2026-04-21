@@ -1,4 +1,4 @@
-# RPS Mata Kuliah Praktikum Kecerdasan Buatan
+# Digitalisasi Modul Mata Kuliah Praktikum Kecerdasan Buatan
 
 ## Deskripsi Mata Kuliah
 Mata kuliah ini bertujuan memberikan pemahaman praktis mengenai **konsep dan implementasi Kecerdasan Buatan (Artificial Intelligence)** menggunakan Python. Mahasiswa akan mempelajari penerapan **Logika Fuzzy, Sistem Pakar, dan Algoritma Genetika** melalui praktek di notebook interaktif.
